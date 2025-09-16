@@ -31,7 +31,7 @@ writefile("yes.mp4", game:HttpGet("https://github.com/HappyCow91/RobloxScripts/b
 VideoScreen.Video = getcustomasset("yes.mp4")
 VideoScreen.Looped = true
 VideoScreen.Playing = true
-VideoScreen.Volume = 10
+VideoScreen.Volume = 2
 
 function notify_hook()
     -- Thumb API
